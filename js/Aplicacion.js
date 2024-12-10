@@ -4,7 +4,7 @@ window.addEventListener('load',function(){
 pelota = new Pelota();
 //pinto la pelota
 // pelota.pintarPelota(8);
-// pelota.animacionPelota;
-pelota.centroCanvas;
+pelota.animacionPelota();
+// pelota.centroCanvas;
 
 });
