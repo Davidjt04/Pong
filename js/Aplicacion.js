@@ -1,7 +1,10 @@
 window.addEventListener('load',function(){
 //funcionalidad del juego
+//creo la pelota 
 pelota = new Pelota();
-pelota.pintarPelota();
-
+//pinto la pelota
+// pelota.pintarPelota(8);
+// pelota.animacionPelota;
+pelota.centroCanvas;
 
 });
